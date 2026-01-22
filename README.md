@@ -1,9 +1,5 @@
 **Programlama Dilleri I Ödevi**
 
-**Öğrenci No			:2416501030**		
-
-**Öğrenci Adı ve soyadı	:Ramazan Harun ERGENE**
-
 **Proje Başlığı		:Valorant Ajan-Silah API’si**
 
 **Kullanılan API adresi	:** [*https://valorant-api.com/v1/weapons*](https://valorant-api.com/v1/weapons)\
